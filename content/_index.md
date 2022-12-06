@@ -116,7 +116,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Welcome to contact me if you are interested in my research direction.
       # Contact (add or remove contact options as necessary)
       email: Lejunz2@illinois.edu
       phone: +86 19818339200
