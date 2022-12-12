@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://www.istockphoto.com/photo/man-has-respiratory-problem-from-covid-19-so-wear-inhaler-oxygen-mask-gm1270433801-373384541)'
   focal_point: ""
   preview_only: false
 
