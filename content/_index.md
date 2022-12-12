@@ -21,16 +21,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: OR
+          description: ✔
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: ✔
           icon: chart-line
           icon_pack: fas
         - name: Photography
-          description: 10%
+          description: ✔
           icon: camera-retro
           icon_pack: fas
   - block: portfolio
