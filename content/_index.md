@@ -21,11 +21,11 @@ sections:
     content:
       title: Skills
       items:
-        - name: OR
+        - name: Modeling and Optimization
           description: ✔
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Data Processing
           description: ✔
           icon: chart-line
           icon_pack: fas
