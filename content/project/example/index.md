@@ -2,7 +2,7 @@
 title: Liquid Medical Oxygen (LMO) Logistics Network Optimization
 summary: Lejun Zhou, Lavanya Marla, Varun Gupta, Ankur Mani
 tags: 
-  - Deep Learning
+  - Logistics
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
