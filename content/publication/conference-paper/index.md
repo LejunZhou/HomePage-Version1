@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://www.istockphoto.com/photo/food-delivery-app-order-with-phone-online-mobile-service-for-take-away-burger-and-gm1287186696-383461899)'
   focal_point: ''
   preview_only: false
 
