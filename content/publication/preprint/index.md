@@ -22,26 +22,26 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Oxygen is an essential life-saving medicine used in several indications at all levels of healthcare. During the COVID-19 pandemic, the demand for liquid medical oxygen (LMO) has increased significantly due to the occurrence of lung infections in many patients. However, many countries and regions are not prepared for the emergence of this phenomenon, and the limited supply of LMO has resulted in unsatisfied usage needs in many regions. In this paper, we formulated a linear programming model with the objective to minimize the unsatisfied demand given the constraints of supply and transportation capacity. The decision variables are how much LMO should be transferred from a place to another at each time interval using a specific number of vehicles. Multiple storage points are added into the network to allow for more flexible allocation strategies. The proposed model is implemented in India with real-world LMO supply and demand data as a case study. Compared to the manually designed allocation strategy, the proposed model successfully reduces the unsatisfied demand.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Preprint
-# featured: false
+tags:
+- Source Themes
+featured: false
 
 links:
 - name: Custom Link
   url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -63,7 +63,8 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: example
+---
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
