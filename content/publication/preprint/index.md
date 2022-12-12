@@ -25,7 +25,7 @@ publication_short: ""
 abstract: Oxygen is an essential life-saving medicine used in several indications at all levels of healthcare. During the COVID-19 pandemic, the demand for liquid medical oxygen (LMO) has increased significantly due to the occurrence of lung infections in many patients. However, many countries and regions are not prepared for the emergence of this phenomenon, and the limited supply of LMO has resulted in unsatisfied usage needs in many regions. In this paper, we formulated a linear programming model with the objective to minimize the unsatisfied demand given the constraints of supply and transportation capacity. The decision variables are how much LMO should be transferred from a place to another at each time interval using a specific number of vehicles. Multiple storage points are added into the network to allow for more flexible allocation strategies. The proposed model is implemented in India with real-world LMO supply and demand data as a case study. Compared to the manually designed allocation strategy, the proposed model successfully reduces the unsatisfied demand.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:[]
 
