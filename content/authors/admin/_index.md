@@ -65,5 +65,5 @@ email: ''
 highlight_name: true
 ---
 
-Hello everyone, I am Lejun Zhou, a senior student in Civil Engineering. I am jointly trained by Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). My research intersets are dynamic network modeling and optimization, autonoumous vehicles (AV), and route optimization. I am confident in the future of smart transportation and logistics, and hope that my optimization work will advance the field of decision analysis. In the next few years, I will continue to explore in the field of traffic engineering and operation research, welcome to discuss with me.
+Hello everyone, I am Lejun Zhou, a senior student in Civil Engineering. I am jointly trained by Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and optimal transportation. I am optimistic about the future of intelligent transportation and logistics, and hope that my optimization work will advance the development. In the next few years, I will continue to explore more about traffic engineering and operation research in graduate programs, welcome to discuss with me.
 {style="text-align: justify;"}
