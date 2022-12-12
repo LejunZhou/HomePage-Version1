@@ -6,7 +6,10 @@ authors:
 - Varun Gupta
 - Ankur Mani
 
-date: "2022-07-07T00:00:00Z"
+author_notes:
+  - 'First Author'
+
+date: "2022-08-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
