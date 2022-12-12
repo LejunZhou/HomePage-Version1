@@ -33,7 +33,7 @@ tags:
 featured: false
 
 links:
-- name: arXiV
+- name: arXiv
   url: https://doi.org/10.48550/arXiv.2212.04173
 url_pdf: ''
 url_code: ''
