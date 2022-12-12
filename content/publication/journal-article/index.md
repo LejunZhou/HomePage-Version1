@@ -35,7 +35,7 @@ featured: false
 links:
 - name: arXiV
   url: https://doi.org/10.48550/arXiv.2212.04173
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
