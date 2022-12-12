@@ -81,7 +81,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Welcome to contact me if you are interested in my research direction.
+        Welcome to contact me through email. I will reply to you at my earliest convenience.
       # Contact (add or remove contact options as necessary)
       email: Lejunz2@illinois.edu
       phone: +86 19818339200
