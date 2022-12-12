@@ -22,7 +22,7 @@ organizations:
     url: https://www.intl.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research intersets are dynamic network modeling and optimization, autonoumous vehicles (AV), and route optimization.
+bio: My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and optimal transportation.
 
 # Interests to show in About widget
 interests:
