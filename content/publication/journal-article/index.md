@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**]([https://unsplash.com/photos/jdD8gXaTZsc](https://www.istockphoto.com/photo/bamboo-isolated-on-white-background-gm1211392923-351293518?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbamboo-material&utm_term=bamboo%20material%3A%3A%3A))'
   focal_point: ""
   preview_only: false
 
