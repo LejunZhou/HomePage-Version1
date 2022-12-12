@@ -65,5 +65,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello everyone, I am Lejun Zhou, a senior student in Civil Engineering. I am jointly trained by Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). My research intersets are dynamic network modeling and optimization, autonoumous vehicles (AV), and route optimization. I am confident in the future of smart transportation and logistics, and hope that my optimization work will advance the field of decision analysis. In the next few years, I will continue to explore in the field of traffic engineering and operation research, welcome to discuss with me.
 {style="text-align: justify;"}
