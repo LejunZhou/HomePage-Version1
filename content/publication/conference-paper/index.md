@@ -41,7 +41,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: arXiV
+- name: arXiv
   url: https://doi.org/10.48550/arXiv.2212.03505
 
 url_pdf: ''
