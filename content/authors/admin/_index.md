@@ -14,7 +14,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student of ZJUI
+role: ZJU/UIUC Civil Engineering 2023'
+      Incoming MS Transportation Engineering Student of UC Berkeley
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,5 +66,5 @@ email: ''
 highlight_name: true
 ---
 
-Hello everyone, I am Lejun Zhou, a senior student in Civil Engineering. I am jointly trained by Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and optimal transportation. I am optimistic about the future of intelligent transportation and logistics, and hope that my optimization work will advance the development. In the next few years, I will continue to explore more about traffic engineering and operation research in graduate programs, welcome to discuss with me.
+Hello everyone, I am Lejun Zhou, a senior student in Civil Engineering. I have gotten Bachelor Degrees from Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). And I will go to UCB for MS degree study this August. My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and optimal transportation. I am optimistic about the future of intelligent transportation and logistics, and hope that my optimization work will advance the development. In the next few years, I will continue to explore more about transportation engineering and operation research in graduate programs, welcome to discuss with me.
 {style="text-align: justify;"}
