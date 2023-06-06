@@ -2,8 +2,8 @@
 title: On-demand Meal Delivery Routing Problem
 summary: Lejun Zhou, Anke Ye, Simon Hu
 tags:
-  - Transportation
-date: "2016-04-27T00:00:00Z"
+  - Meal Delivery
+date: "2022-11-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
