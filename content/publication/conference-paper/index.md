@@ -63,7 +63,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - external-project
+  - On-demand Meal Delivery Routing Problem
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
