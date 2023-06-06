@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming MS Transportation Engineering Student of UC Berkeley
+role: Incoming MS Transportation Engineering Student at UC Berkeley
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,23 +25,8 @@ organizations:
 bio: My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and optimal transportation.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,5 +50,5 @@ email: ''
 highlight_name: true
 ---
 
-Hello everyone, I am Lejun Zhou, a senior student in Civil Engineering. I have gotten Bachelor Degrees from Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). And I will go to UCB for MS degree study this August. My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and optimal transportation. I am optimistic about the future of intelligent transportation and logistics, and hope that my optimization work will advance the development. In the next few years, I will continue to explore more about transportation engineering and operation research in graduate programs, welcome to discuss with me.
+Here is Lejun Zhou. I have gotten my Bachelor Degrees in Cilvil Engineering from Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). And I will go to UCB for MS degree study this August. My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and optimal transportation. I am optimistic about the future of intelligent transportation and logistics, and hope that my work will advance the development. In the next few years, I will continue to explore more about transportation engineering and operation research in graduate programs, welcome to discuss with me.
 {style="text-align: justify;"}
