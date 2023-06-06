@@ -14,8 +14,8 @@ sections:
       text:
     design:
       background:
-        gradient_end: '#D3D3D3'
-        gradient_start: '#ADD8E6'
+        gradient_end: '#424242'
+        gradient_start: '#87CEEB'
         text_color_light: true
   - block: features
     content:
