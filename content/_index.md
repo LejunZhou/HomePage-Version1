@@ -14,7 +14,7 @@ sections:
       text:
     design:
       background:
-        gradient_end: '#1976d2'
+        gradient_end: '#ffb6c1'
         gradient_start: '#004ba0'
         text_color_light: true
   - block: features
@@ -83,7 +83,7 @@ sections:
       text: |-
         Welcome to contact me through email. I will reply to you at my earliest convenience.
       # Contact (add or remove contact options as necessary)
-      email: lejun@Berkeley.edu
+      email: lejun@berkeley.edu
       phone: +86 19818339200
       # Automatically link email and phone or display as text?
       autolink: true
