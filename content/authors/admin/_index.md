@@ -14,13 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: ZJU/UIUC Civil Engineering 2023'
-      Incoming MS Transportation Engineering Student of UC Berkeley
+role: Incoming MS Transportation Engineering Student of UC Berkeley
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Zhejiang University/University of Illinois at Urbana–Champaign Institute
-    url: https://www.intl.zju.edu.cn/
+  - name: University of California at Berkeley
+    url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and optimal transportation.
