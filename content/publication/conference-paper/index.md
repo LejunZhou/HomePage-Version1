@@ -40,10 +40,7 @@ featured: false
 
 
 # Custom links (uncomment lines below)
-links:
-- name: arXiv
-  url: https://doi.org/10.48550/arXiv.2212.03505
-
+links: ''
 url_pdf: ''
 url_code: ''
 url_dataset: https://github.com/grubhub/mdrplib
