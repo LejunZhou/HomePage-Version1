@@ -35,7 +35,7 @@ tags:
 featured: false
 
 # links:
-url_pdf: ''
+url_pdf: content/publication/Provably High-Quality Solutions for the Liquid Medical Oxygen Allocation Problem/preprint.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
