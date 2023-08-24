@@ -84,7 +84,7 @@ sections:
         Welcome to contact me through email. I will reply to you at my earliest convenience.
       # Contact (add or remove contact options as necessary)
       email: lejun@berkeley.edu
-      phone: +86 19818339200
+      phone: +1 (510) 388-7622
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
