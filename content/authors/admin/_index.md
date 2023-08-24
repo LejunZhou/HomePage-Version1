@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming MS Transportation Engineering Student at UC Berkeley
+role: MS Transportation Engineering Student at UC Berkeley
 
 # Organizations/Affiliations to show in About widget
 organizations:
