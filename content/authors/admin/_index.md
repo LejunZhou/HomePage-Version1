@@ -22,7 +22,7 @@ organizations:
     url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and optimal transportation.
+bio: My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and transportation behaviour analysis.
 
 # Interests to show in About widget
 
