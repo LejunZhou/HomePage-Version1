@@ -41,7 +41,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links: ''
-url_pdf: ''
+url_pdf: 'conference-paper'
 url_code: ''
 url_dataset: https://github.com/grubhub/mdrplib
 url_poster: ''
