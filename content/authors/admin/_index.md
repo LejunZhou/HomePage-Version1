@@ -22,7 +22,7 @@ organizations:
     url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and transportation behaviour analysis.
+bio: My research intersets are optimization and machine learning in transportation engineering.
 
 # Interests to show in About widget
 
@@ -50,5 +50,5 @@ email: ''
 highlight_name: true
 ---
 
-Here is Lejun Zhou. I have gotten my Bachelor Degrees in Cilvil Engineering from Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). I am now at University of California, Berkeley (UCB) for MS degree study. My research intersets are dynamic network modeling and optimization, autonoumous vehicle system, and transportation behaviour analysis. I am optimistic about the future of intelligent transportation and logistics, and hope that my work will advance the development. In the next few years, I will continue to explore more about transportation engineering and operation research in graduate programs, welcome to discuss with me.
+Here is Lejun Zhou. I got my bachelor degrees in civil engineering from both Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). I am now at University of California, Berkeley (UCB) for master degree study.
 {style="text-align: justify;"}
