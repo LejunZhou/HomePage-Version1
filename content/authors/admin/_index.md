@@ -50,5 +50,5 @@ email: ''
 highlight_name: true
 ---
 
-Here is Lejun Zhou. I got my bachelor degrees in civil engineering from both Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). I am now at University of California, Berkeley (UCB) for master degree study.
+Here is Lejun Zhou. I got my bachelor degrees in civil engineering from both Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). I am now at University of California, Berkeley (UCB) for master degree study. My research intersets are optimization and machine learning in transportation engineering.
 {style="text-align: justify;"}
