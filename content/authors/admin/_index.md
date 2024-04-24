@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MS Transportation Engineering Student at UC Berkeley
+role: PhD Transportation Engineering Student at UC Berkeley
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -50,5 +50,5 @@ email: ''
 highlight_name: true
 ---
 
-Here is Lejun Zhou. I got my bachelor degrees in civil engineering from both Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). I am now at University of California, Berkeley (UCB) for master degree study. My research interests are optimization and machine learning in transportation engineering.
+Here is Lejun Zhou. I got my bachelor degrees in civil engineering from both Zhejiang University (ZJU) and University of Illinois at Urbana-Champaign (UIUC). I am now at University of California, Berkeley (UCB) for PhD degree study. My research interests are optimization and machine learning in transportation engineering.
 {style="text-align: justify;"}
